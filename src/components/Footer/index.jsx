@@ -4,7 +4,9 @@ import "./style.scss";
 const index = () => {
     return (
         <footer>
-            <h1>Footer</h1>
+            <div className="container">
+                <h1>Footer</h1>
+            </div>
         </footer>
     );
 };
